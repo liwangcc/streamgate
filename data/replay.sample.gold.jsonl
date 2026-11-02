@@ -1,0 +1,12 @@
+{"id": "c001", "label": "price", "should_reply": true, "risk": false}
+{"id": "c002", "label": "price", "should_reply": true, "risk": false}
+{"id": "c003", "label": "greeting", "should_reply": false, "risk": false}
+{"id": "c004", "label": "demo", "should_reply": true, "risk": false}
+{"id": "c005", "label": "spam", "should_reply": false, "risk": false}
+{"id": "c006", "label": "shipping", "should_reply": true, "risk": false}
+{"id": "c007", "label": "coupon", "should_reply": true, "risk": false}
+{"id": "c008", "label": "gift", "should_reply": true, "risk": false}
+{"id": "c009", "label": "noise", "should_reply": false, "risk": false}
+{"id": "c010", "label": "risk", "should_reply": false, "risk": true}
+{"id": "c011", "label": "howto_buy", "should_reply": true, "risk": false}
+{"id": "c012", "label": "howto_buy", "should_reply": true, "risk": false}

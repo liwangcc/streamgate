@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "streamgate"
+version = "0.1.0"
+description = "Reply admission and scheduling sidecar for a single-voice live room"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []   # runtime is standard library only
+
+[project.optional-dependencies]
+dev = ["pytest>=7"]
+
+[project.scripts]
+streamgate = "streamgate.cli:main"
+
+[tool.setuptools]
+packages = ["streamgate"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
