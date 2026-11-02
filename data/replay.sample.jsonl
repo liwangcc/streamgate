@@ -1,0 +1,12 @@
+{"id": "c001", "room_id": "demo", "platform": "douyin", "user_id": "u_1001", "username": "小林", "text": "这个多少钱", "ts": 0.0, "kind": "comment", "user_tier": "regular", "gift_value": 0.0, "raw": {}}
+{"id": "c002", "room_id": "demo", "platform": "douyin", "user_id": "u_1002", "username": "阿杰", "text": "多少钱", "ts": 0.6, "kind": "comment", "user_tier": "regular", "gift_value": 0.0, "raw": {}}
+{"id": "c003", "room_id": "demo", "platform": "douyin", "user_id": "u_1003", "username": "路人甲", "text": "主播你好", "ts": 1.4, "kind": "comment", "user_tier": "regular", "gift_value": 0.0, "raw": {}}
+{"id": "c004", "room_id": "demo", "platform": "douyin", "user_id": "u_1004", "username": "小雨", "text": "能演示一下吗", "ts": 2.1, "kind": "comment", "user_tier": "regular", "gift_value": 0.0, "raw": {}}
+{"id": "c005", "room_id": "demo", "platform": "douyin", "user_id": "u_1005", "username": "游客", "text": "666", "ts": 2.8, "kind": "comment", "user_tier": "new", "gift_value": 0.0, "raw": {}}
+{"id": "c006", "room_id": "demo", "platform": "douyin", "user_id": "u_1006", "username": "老周", "text": "已经下单了，什么时候发货", "ts": 3.5, "kind": "comment", "user_tier": "fan", "gift_value": 0.0, "raw": {}}
+{"id": "c007", "room_id": "demo", "platform": "douyin", "user_id": "u_1007", "username": "小美", "text": "有没有优惠券", "ts": 4.2, "kind": "comment", "user_tier": "regular", "gift_value": 0.0, "raw": {}}
+{"id": "c008", "room_id": "demo", "platform": "douyin", "user_id": "u_1008", "username": "榜一大哥", "text": "谢谢老板", "ts": 5.0, "kind": "gift", "user_tier": "gift", "gift_value": 10.0, "raw": {}}
+{"id": "c009", "room_id": "demo", "platform": "douyin", "user_id": "u_1009", "username": "路人乙", "text": "？？？", "ts": 5.6, "kind": "comment", "user_tier": "regular", "gift_value": 0.0, "raw": {}}
+{"id": "c010", "room_id": "demo", "platform": "douyin", "user_id": "u_1010", "username": "家长", "text": "保过吗", "ts": 6.3, "kind": "comment", "user_tier": "regular", "gift_value": 0.0, "raw": {}}
+{"id": "c011", "room_id": "demo", "platform": "douyin", "user_id": "u_1011", "username": "新观众", "text": "第一次来，怎么买", "ts": 7.1, "kind": "comment", "user_tier": "new", "gift_value": 0.0, "raw": {}}
+{"id": "c012", "room_id": "demo", "platform": "douyin", "user_id": "u_1012", "username": "阿杰", "text": "在哪里买", "ts": 7.9, "kind": "comment", "user_tier": "regular", "gift_value": 0.0, "raw": {}}
